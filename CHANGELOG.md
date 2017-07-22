@@ -1,3 +1,7 @@
+### 0.3.1 (2017-07-21)
+
+* Allow for incompressible input vectors
+
 ### 0.3.1 (2015-09-27)
 
 * Correct output length calculation
